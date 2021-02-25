@@ -1,1 +1,0 @@
-cmd_/home/osc/final-src-osc10e/Jiffies_Project/seconds.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/osc/final-src-osc10e/Jiffies_Project/seconds.ko /home/osc/final-src-osc10e/Jiffies_Project/seconds.o /home/osc/final-src-osc10e/Jiffies_Project/seconds.mod.o
